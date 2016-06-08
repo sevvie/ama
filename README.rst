@@ -2,9 +2,9 @@
 Ask Me Anything!
 ================
 
-.. class:: right
+.. class:: center
 
-`:question: Ask a Question`_  `:memo: Answered Questions`_
+`:question: Ask a Question`_ - `:memo: Answered Questions`_
 
 
 
