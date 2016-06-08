@@ -4,8 +4,7 @@ Ask Me Anything!
 
 .. class:: center
 
-`:question: Ask a Question`_ - `:memo: Answered Questions`_
-
+( `:question: Ask a Question`_ | `:memo: Answered Questions`_ )
 
 
 .. _`:question: Ask a Question`: https://github.com/sevvie/ama/issues/new
